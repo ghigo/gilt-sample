@@ -1,5 +1,5 @@
 {
-  "name": "Ayres Chambray",
+  "name": "Lodge",
   "product": "https://raw.githubusercontent.com/ghigo/gilt-sample/master/products/001.json",
   "id": 1001,
   "brand": "Gryphon",
@@ -12,51 +12,51 @@
   "image_urls": {
     "91x121": [
       {
-        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/lodge_women_white2_medium_d0f10089-e602-472e-88cd-eafe61a9f5d4_large.jpeg?v=1437449605",
         "width": 91,
         "height": 121
       },
       {
-        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/lodge_women_white2_medium_d0f10089-e602-472e-88cd-eafe61a9f5d4_large.jpeg?v=1437449605",
         "width": 91,
         "height": 121
       },
       {
-        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/lodge_women_white2_medium_d0f10089-e602-472e-88cd-eafe61a9f5d4_large.jpeg?v=1437449605",
         "width": 91,
         "height": 121
       }
     ],
     "300x400": [
       {
-        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/lodge_women_white2_medium_d0f10089-e602-472e-88cd-eafe61a9f5d4_large.jpeg?v=1437449605",
         "width": 300,
         "height": 400
       },
       {
-        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/lodge_women_white2_medium_d0f10089-e602-472e-88cd-eafe61a9f5d4_large.jpeg?v=1437449605",
         "width": 300,
         "height": 400
       },
       {
-        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/lodge_women_white2_medium_d0f10089-e602-472e-88cd-eafe61a9f5d4_large.jpeg?v=1437449605",
         "width": 300,
         "height": 400
       }
     ],
     "420x560": [
       {
-        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/lodge_women_white2_medium_d0f10089-e602-472e-88cd-eafe61a9f5d4_large.jpeg?v=1437449605",
         "width": 420,
         "height": 560
       },
       {
-        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/lodge_women_white2_medium_d0f10089-e602-472e-88cd-eafe61a9f5d4_large.jpeg?v=1437449605",
         "width": 420,
         "height": 560
       },
       {
-        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/lodge_women_white2_medium_d0f10089-e602-472e-88cd-eafe61a9f5d4_large.jpeg?v=1437449605",
         "width": 420,
         "height": 560
       }
