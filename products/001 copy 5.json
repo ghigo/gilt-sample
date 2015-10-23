@@ -1,0 +1,119 @@
+{
+  "name": "Ayres Chambray",
+  "product": "https://raw.githubusercontent.com/ghigo/gilt-sample/master/products/001.json",
+  "id": 1001,
+  "brand": "Gryphon",
+  "content": {
+    "description": "Cotton canvas twill blend woven trench coat. Snip.",
+    "material": "67% cotton and 33% nylon shell. 100% acetate lining",
+    "origin": "China"
+  },
+  "url": "http://www.gilt.com/m/public/look/?utm_medium=api&utm_campaign=PublicAPIAlpha&utm_source=salesapi&s_id=4f9f381ffa13e06bf47b8e9994f1c8b87f58df34345d5ae1b213998dd627cb65_0_93603981",
+  "image_urls": {
+    "91x121": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "width": 91,
+        "height": 121
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "width": 91,
+        "height": 121
+      }
+    ],
+    "300x400": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "width": 300,
+        "height": 400
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "420x560": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "width": 420,
+        "height": 560
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0923/0916/products/chambray_medium_ce2c3271-6ac1-442c-afc4-8a722bf3d127_large.jpeg?v=1437449608",
+        "width": 420,
+        "height": 560
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": 1225400,
+      "inventory_status": "for sale",
+      "msrp_price": "530.00",
+      "sale_price": "99.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        },
+        {
+          "name": "hue",
+          "value": "dark"
+        }
+      ]
+    },
+    {
+      "id": 1383500,
+      "inventory_status": "sold out",
+      "msrp_price": "530.00",
+      "sale_price": "99.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        }
+      ]
+    },
+    {
+      "id": 1383499,
+      "inventory_status": "sold out",
+      "msrp_price": "530.00",
+      "sale_price": "99.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "black"
+        }
+      ]
+    },
+    {
+      "id": 1383498,
+      "inventory_status": "sold out",
+      "msrp_price": "530.00",
+      "sale_price": "99.00",
+      "attributes": [
+        {
+          "name": "color",
+          "value": "red"
+        }
+      ]
+    }
+  ]
+}
